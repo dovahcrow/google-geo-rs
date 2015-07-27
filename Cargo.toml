@@ -15,4 +15,4 @@ serde = "*"
 
 [lib]
 path = "src/lib.rs"
-name = "google-geo"
+name = "google_geo"
