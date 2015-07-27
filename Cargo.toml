@@ -1,0 +1,18 @@
+[package]
+name = "google-geo"
+version = "0.1.0"
+authors = ["Wu Young <doomsplayer@gmail.com>"]
+description = "get geo infomation by latitude and longitude, using google map service"
+homepage = "http://github.com/doomsplayer/google-geo-rs.git"
+repository = "http://github.com/doomsplayer/google-geo-rs.git"
+readme = "README.md"
+keywords = ["geo", "latitude", "longitude", "location infomation"]
+liscense = "MIT"
+
+[dependencies]
+hyper = "*"
+serde = "*"
+
+[lib]
+path = "src/lib.rs"
+name = "google-geo"
