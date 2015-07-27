@@ -6,8 +6,8 @@ description = "get geo infomation by latitude and longitude, using google map se
 homepage = "http://github.com/doomsplayer/google-geo-rs.git"
 repository = "http://github.com/doomsplayer/google-geo-rs.git"
 readme = "README.md"
-keywords = ["geo", "latitude", "longitude", "location infomation"]
-liscense = "MIT"
+keywords = ["geo", "latitude", "longitude", "location"]
+license = "MIT"
 
 [dependencies]
 hyper = "*"
